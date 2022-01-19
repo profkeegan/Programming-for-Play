@@ -1,2 +1,2 @@
-# Programming-for-Play
-Lessons and exercises 
+# Programming4Play
+Official source control home for the course Programming for Play.
