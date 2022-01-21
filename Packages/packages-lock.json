@@ -175,11 +175,10 @@
       "url": "https://packages.unity.com"
     },
     "dev.bolt.addons": {
-      "version": "https://github.com/RealityStop/Bolt.Addons.Community.git",
+      "version": "file:Bolt.Addons.Community-master",
       "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "b6f023ec13d4a09f19e7501a40cc17eef2adaeb7"
+      "source": "embedded",
+      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
