@@ -688,7 +688,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7508633817069099819, guid: 9ae81ba8facd9c74b8632bdd73e98ea6, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"spawner","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"collection":{"$content":[{"name":"spawner","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"spawnLimit","value":{"$content":3,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 7508633817069099820, guid: 9ae81ba8facd9c74b8632bdd73e98ea6, type: 3}
       propertyPath: _data._json
@@ -916,18 +916,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: OneHitBrick
       objectReference: {fileID: 0}
-    - target: {fileID: 7508633817069099820, guid: 9ae81ba8facd9c74b8632bdd73e98ea6, type: 3}
-      propertyPath: _data._json
-      value: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 7508633817069099820, guid: 9ae81ba8facd9c74b8632bdd73e98ea6, type: 3}
-      propertyPath: _data._objectReferences.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7508633817069099820, guid: 9ae81ba8facd9c74b8632bdd73e98ea6, type: 3}
-      propertyPath: _data._objectReferences.Array.data[0]
-      value: 
-      objectReference: {fileID: 11400000, guid: 7272e42c7a26ac745b35ba1461965df6, type: 2}
     - target: {fileID: 7508633817069099821, guid: 9ae81ba8facd9c74b8632bdd73e98ea6, type: 3}
       propertyPath: m_RootOrder
       value: 7
